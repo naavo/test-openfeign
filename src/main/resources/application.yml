@@ -1,0 +1,3 @@
+whatever-service:
+  ribbon:
+    listOfServers: httpstat.us
